@@ -6,7 +6,7 @@ This project demonstrates how different algorithms and underlying data structure
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
-![Algorithms](https://img.shields.io/badge/Algorithms-BFS%20%7C%20DFS%20%7C%20Dijkstra%20%7C%20A*-orange)
+![Algorithms](https://img.shields.io/badge/Algorithms-BFS%20%7C%20DFS%20%7C%20Dijkstra%20%7C%20)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ---
