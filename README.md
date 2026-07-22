@@ -430,7 +430,14 @@ The visualizer makes it possible to directly compare how these algorithms explor
 ---
 
 ## 📸 Demo
-Coming soon
+#### BFS
+<img width="1960" height="1724" alt="bfs" src="https://github.com/user-attachments/assets/3f85aa68-469c-436e-ac2a-9a3eff430b48" />
+
+#### DFS
+<img width="1960" height="1724" alt="dfs" src="https://github.com/user-attachments/assets/1c7e609c-52ac-4cf9-a2e4-228d31fd079f" />
+
+#### Dijkstra
+<img width="1960" height="1724" alt="dijkstra" src="https://github.com/user-attachments/assets/671f3de1-a723-49e2-94b9-945a7ffe806e" />
 
 ---
 
